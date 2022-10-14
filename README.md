@@ -1,3 +1,4 @@
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 <h1 align="center">Hi 👋, I'm Alaa Adel</h1>
 <h3 align="center">Computer Science Student at FCIS-ASU Interesting in Data Science, Machine Learning and Deep Learning</h3>
 
@@ -26,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3laa3adel&show_icons=true&locale=en" alt="3laa3adel" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3laa3adel&" alt="3laa3adel" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3laa3adel&theme=dark&background=000000)" alt="3laa3adel" /></p>
