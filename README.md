@@ -1,9 +1,10 @@
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=3laa3adel&label=Profile%20views&color=0e75b6&style=flat" alt="3laa3adel" /> </p>
 <h1 align="center">Hi 👋, I'm Alaa Adel</h1>
 <h3 align="center">Computer Science Student at FCIS-ASU Interesting in Data Science, Machine Learning and Deep Learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=3laa3adel&label=Profile%20views&color=0e75b6&style=flat" alt="3laa3adel" /> </p>
 
+### :man_technologist: &nbsp;About Me :
 - 🔭 I’m currently Computer Science Student at **Faculty of Computer and Information Science Ain Shams University**
 
 - 🌱 I’m currently learning **Computer Science, Data Science and Machine Learning**
