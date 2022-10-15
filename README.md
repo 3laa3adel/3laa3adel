@@ -30,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=3laa3adel&theme=dark&background=000000)&show_icons=true&locale=en" alt="3laa3adel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=3laa3adel&theme=dark&background=000000)" alt="3laa3adel" /></p>
+<a href="https://github.com/3laa3adel/github-readme-activity-graph"><img alt="3laa3adel's Activity Graph" src="https://3laa3adel-activity-graph.herokuapp.com/graph/?username=3laa3adel&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
