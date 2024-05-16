@@ -6,9 +6,7 @@
 </p>
 
 ### :man_technologist: &nbsp;About Me :
-- 🔭 I’m currently Computer Science Student at **Faculty of Computer and Information Science Ain Shams University**
-
-- 🌱 I’m currently learning **Computer Science, Data Science and Machine Learning**
+- 🔭 I’m currently Software Engineer  at **Ejada Systems Company**
 
 - 📫 How to reach me **alaa89624@gmail.com**
 
